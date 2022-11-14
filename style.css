@@ -60,9 +60,10 @@
 
 .weather-container{
     position: absolute;
-    left: 20%;
+    left: 15%;
     background-color: #F4F9FF;
     text-align: center;
+    padding: 30px;
 }
 
 .weather-icon{
